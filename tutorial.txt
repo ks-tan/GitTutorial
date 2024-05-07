@@ -5,3 +5,5 @@ git add .
 git commit -m ""
 git checkout [id]
 git log [--all, --oneline]
+git push origin master
+git pull
