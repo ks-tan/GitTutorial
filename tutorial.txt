@@ -1,1 +1,7 @@
 Git Tutorial is so fun
+
+git init
+git add .
+git commit -m ""
+git checkout [id]
+git log [--all, --oneline]
